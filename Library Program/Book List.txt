@@ -1,0 +1,6 @@
+1#Bahasa CSS#2005#Naufal#Available
+2#Bahasa C#2020#Feiza#Available
+3#Bahasa Python#2017#Wiliam#Available
+4#Bahasa CPP#2012#Kevin#Available
+5#Bahasa Java#2009#Hendrik#Available
+6#Bahasa HTML#2015#Stanley#Available
